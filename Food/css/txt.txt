@@ -1,0 +1,22 @@
+/* *,
+*:active,
+*:before {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+} */
+
+/* :active,
+:hover,
+:focus {
+    outline: 0 !important;
+    outline-offset: 0;
+} */
+
+
+ /* --webkit-transition: all .4s ease-out 0s;
+    -o-transition: all .4s ease-out 0s;
+    -moz-transition:  all .4s ease-out 0s;
+    transition: all .4s ease-out 0s; */
+    transition: all .4s ease-out 0s; */
